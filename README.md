@@ -12,7 +12,7 @@ _Kansizoglou Ioannis, PhD Candidate_<br />
 
 
 
-<img src="https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/gifs/nural-network_3.gif" width="500">
+<img src="https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/gifs/nural-network_3.gif" width="500" align='centre'>
 
 
 
