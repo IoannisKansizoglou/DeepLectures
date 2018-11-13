@@ -6,4 +6,4 @@
 _Kansizoglou Ioannis, PhD Candidate_<br />
 <i> ikansizo@pme.duth.gr </i>
 
-Οι διαφάνειες του 1ου μαθήματος έχουν ανεβεί σε μορφή .pdf και .html (για online ανάγνωση).
+- Οι διαφάνειες του 1ου μαθήματος έχουν ανεβεί σε μορφή .pdf και .html (για online ανάγνωση).
