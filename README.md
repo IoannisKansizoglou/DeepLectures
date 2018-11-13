@@ -1,3 +1,3 @@
 <html>
-  Lecture
+  Lecture.html
 </html>
