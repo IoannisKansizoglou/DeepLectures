@@ -6,7 +6,7 @@
 _Kansizoglou Ioannis, PhD Candidate_<br />
 <i> ikansizo@pme.duth.gr </i>
 
-- **Slides of 1st lecture are included inside Lecture1 folder  in [.pdf](https://github.com/IoannisKansizoglou/DeepLectures/blob/master/Lecture1/Lecture1.pdf) (choose Download) και [.html](https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/Lecture1/Lecture1.html) (local save with Ctrl+S and open with internet).** Whoever is interested in exploring the code about training example, the installation of jupyter notebook is required. Firstly, download and install the Anaconda environment from the official [site](https://www.anaconda.com/download/). Afterwards, save Lecture1.ipynb and functions.py files in a common folder and open the first using jupyter notebook. (## .ipynb file is under evaluation ##)
+- **Slides of 1st lecture are included inside Lecture1 folder  in [.pdf](https://github.com/IoannisKansizoglou/DeepLectures/blob/master/Lecture1/Lecture1.pdf) (choose Download) και [.html](https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/Lecture1/Lecture1.html) (open with internet, local save with Ctrl+S).** Whoever is interested in exploring the code about training example, the installation of jupyter notebook is required. Firstly, download and install the Anaconda environment from the official [site](https://www.anaconda.com/download/). Afterwards, save Lecture1.ipynb and functions.py files in a common folder and open the first using jupyter notebook. (## .ipynb file is under evaluation ##)
 
 _HOW TO USE GITHUB (WINDOWS):_ 
 1. GitHub is a free online space where everyone can share and/or use other's codes through **repositories**.
