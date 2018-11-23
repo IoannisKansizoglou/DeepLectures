@@ -10,5 +10,5 @@ _Kansizoglou Ioannis, PhD Candidate_<br />
 
 _HOW TO GITHUB (WINDOWS):_ 
 1. GitHub is a free online space where everyone can share and/or use other's codes through **repositories**.
-2. In the [homepage of the repository](https://github.com/IoannisKansizoglou/DeepLectures) we can download the entire repository choosing the **green** frame saying **Clone or Download**. We can download it as zip.
+2. In the [homepage of current repository](https://github.com/IoannisKansizoglou/DeepLectures) we can download the entire DeepLecture folder in .zip format choosing the **green** frame saying **Clone or Download** and then **Download as ZIP**. 
 3. In case we like to download a specific file we work as differently. For .pdf and .ipynb files we simply open them with **left** click and then we can choose **Download**. For .html and .py files we open them and we select **Raw** using left click. Then a new tab opens and with **right** click inside this tab we choose **'Save as'** (alternatively **Ctrl + S**). Pay attention when saving it to keep .html or .py format respectively.
