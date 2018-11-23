@@ -1,6 +1,6 @@
 
 
-# Deep Learning - Robotic Vision <img src='https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/images/logoDUTH.png' width='30%' align='right'>
+# Robotic Vision - Deep Learning <img src='https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/images/logoDUTH.png' width='30%' align='right'>
 
 **Laboratory of Robotics & Automation**<br />
 _Kansizoglou Ioannis, PhD Candidate_<br />
