@@ -1,14 +1,14 @@
 
 
-# Βαθιά Μάθηση - Deep Learning <img src='https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/images/logoDUTH.png' width='30%' align='right'>
+# Deep Learning - Robotic Vision <img src='https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/images/logoDUTH.png' width='30%' align='right'>
 
 **Laboratory of Robotics & Automation**<br />
 _Kansizoglou Ioannis, PhD Candidate_<br />
 <i> ikansizo@pme.duth.gr </i>
 
-- **Στον φάκελο Lecture1 περιέχονται οι διαφάνειες του 1ου μαθήματος σε μορφή [.pdf](https://github.com/IoannisKansizoglou/DeepLectures/blob/master/Lecture1/Lecture1.pdf) (επιλέξτε Download) και [.html](https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/Lecture1/Lecture1.html) (ανάγνωση με internet, πληκτρολογήστε Ctrl+S).** Όποιος επιθυμεί να πειραματιστεί με τον κώδικα για την μέθοδο εκπαίδευσης πρέπει πρώτα να εγκαταστήσει το jupyter notebook στον Η/Υ του. Αυτό συμπεριλαμβάνεται στο environment της Anaconda το οποίο εγκαθιστάται δωρεάν από το επίσημο [site](https://www.anaconda.com/download/). Έπειτα κατεβάζει τα αρχεία Lecture1.ipynb και functions.py σε κοινό φάκελο και ανοίγει το πρώτο σε jupyter notebook. (## Το αρχείο .ipynb είναι ακόμα υπό επεξεργασία ##)
+- **Inside Lecture1 folder slides of 1st lecture are included in [.pdf](https://github.com/IoannisKansizoglou/DeepLectures/blob/master/Lecture1/Lecture1.pdf) (choose Download) και [.html](https://raw.githubusercontent.com/IoannisKansizoglou/DeepLectures/master/Lecture1/Lecture1.html) (online reading, localy save is required).** Whoever is interested in code format the installation of jupyter notebook is required. You can download and install the  Anaconda environment from the official [site](https://www.anaconda.com/download/). Afterwards download Lecture1.ipynb and functions.py filesin a common folder and open the first using jupyter notebook. (## .ipynb file is under evaluation ##)
 
-_ΠΩΣ ΚΑΤΕΒΑΖΟΥΜΕ ΑΠΟ ΤΟ GITHUB (WINDOWS):_ 
-1. To GitHub αποτελεί έναν δωρεάν χώρο όπου ο καθένας μέσα από **repositories** μπορεί να δημοσιοποιήσει τους κώδικές του καθώς και να χρησιμοποιήσει κώδικες άλλων.
-2. Aν βρισκόμαστε στην [αρχική σελίδα του repository](https://github.com/IoannisKansizoglou/DeepLectures) τότε στο πάνω δεξί μέρος της οθόνης εμφανίζεται ένα **πράσινο** πλαίσιο που αναφέρει **Clone or Download**. Πατώντας το μας δίνει την επιλογή Download ZIP οπότε και κατεβάζουμε όλο το περιεχόμενο σε συμπιεσμένη μορφή.
-3. Σε περίπτωση που θέλουμε να κατεβάσουμε συγκεκριμένο αρχείο λειτουργούμε διαφορετικά. Για τα αρχεία .pdf και .ipynb απλά τα ανοίγουμε με **αριστερό** κλικ και πάνω δεξιά εμφανίζεται η επιλογή **Download**. Για τα αρχεία .html και .py πάλι τα ανοίγουμε και πάνω δεξιά εμφανίζεται η επιλογή **Raw**. Την επιλέγουμε με **αριστερό** κλικ και μέσα στην καρτέλα που ανοίγει με **δεξί** κλικ επιλέγουμε **'Αποθήκευση ως'** ή **'Save as'** ανάλογα με τη γλώσσα των Windows (εναλλακτικά **Ctrl + S**). Ιδιαίτερη προσοχή όταν το αποθηκεύουμε να έχει την επέκταση .html ή .py αντίστοιχα.
+_HOW TO GITHUB (WINDOWS):_ 
+1. GitHub is a free online space where everyone can share through **repositories** its codes or use someone's else.
+2. In the [homepage of the repository](https://github.com/IoannisKansizoglou/DeepLectures) we can download the entire repository choosing the **green** frame saying **Clone or Download**. We can download it as zip.
+3. In case we like to download a specific file we work as differently. For .pdf and .ipynb files we simply open them with **left** click and then we can choose **Download**. For .html and .py files we open them and we select **Raw** using left click. Then a new tab opens and with **right** click inside this tab we choose **'Save as'** (alternatively **Ctrl + S**). Pay attention when saving it to keep .html or .py format respectively.
